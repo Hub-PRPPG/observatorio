@@ -1,0 +1,42 @@
+body{
+    background-color: #F6F9FC;
+    font-family: 'Inter', sans-serif;
+}
+
+
+.texto-princpal{
+    font-weight: 700;
+}
+
+.main-chamada{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.chamadas{
+    font-size: 48px;
+    font-family: 'Inter', sans-serif;
+    color: #1E2022;
+    font-weight: 700;
+}
+
+
+.btn-chamada{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ 
+.btn-chamada button{
+    margin-top: -30px;
+    font-size: 20px;
+    border: none;
+    width: 300px;
+    height: 60px;
+    background-color: #001740;
+    color: #ffffff;
+    font-family: 'Inter', sans-serif;
+}
+
+

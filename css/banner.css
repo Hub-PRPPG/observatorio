@@ -1,0 +1,25 @@
+.img-slide{
+    width: 600px;
+    height: 400px;
+}
+
+#part1{
+    background-image: url('../img/Prancheta_1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#part2{
+    background-image: url('../img/Prancheta_2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#part1 h1{  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}    

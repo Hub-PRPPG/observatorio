@@ -1,0 +1,11 @@
+.card-body h4{
+    font-weight: 600;
+}
+
+.card-body p{
+    max-width:101ch;
+}
+
+.card-body p:hover{
+    text-decoration: underline;
+}

@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    margin-top:50px;
+    height: 87px;
+}
+
+#logomarca{
+    width: 180px;
+    padding: 10px;
+}
+
+#menu nav ul{
+    display:flex;
+    justify-content: space-between;
+}
+
+#menu nav li{
+    list-style:none;
+}
+
+#menu nav li a{
+    font-weight: bold;
+    text-decoration:none;    
+    color: #5C5D5E;
+    font-size: 14px;
+}
+
+#btn-contato{
+    width: 120px;
+    height: 40px;
+    color: #fff;
+    background-color:#1B4E86;
+}
+
+
